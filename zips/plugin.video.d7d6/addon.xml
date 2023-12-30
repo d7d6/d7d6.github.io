@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.d7d6" version="1.0.1" name="d7d6 video" provider-name="d7d6">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">d7d6 Video Plugin for Kodi</summary>
+    <description lang="en_GB">A video plugin for Kodi mediacenter for reading video from a file</description>
+    <disclaimer lang="en_GB">A video plugin for Kodi mediacenter for reading video from a file</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <screenshot>resources\screenshot-01.jpg</screenshot>
+      <screenshot>resources\screenshot-02.jpg</screenshot>
+      <screenshot>resources\screenshot-03.jpg</screenshot>
+    </assets>
+    <news>
+      v1.0.1 (30.12.2023)
+      - smb support on android device
+      v1.0.0 (28.12.2023)
+      - First release
+    </news>
+  </extension>
+</addon>
