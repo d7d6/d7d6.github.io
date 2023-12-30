@@ -17,6 +17,11 @@
       <screenshot>resources\screenshot-02.jpg</screenshot>
       <screenshot>resources\screenshot-03.jpg</screenshot>
     </assets>
-    <news>First version</news>
+    <news>
+      v1.0.1 (30.12.2023)
+      - smb support on android device
+      v1.0.0 (28.12.2023)
+      - First release
+    </news>
   </extension>
 </addon>
