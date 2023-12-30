@@ -1,4 +1,4 @@
-# plugin.video.dade
+# plugin.video.d7d6
 Kodi video list from file
 
 # references
