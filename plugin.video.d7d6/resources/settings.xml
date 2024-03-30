@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
     <category label="Percorsi">
-        <setting id="url_json" type="file" label="File canali" default="\\et8000\iptv\d7d6_channels.json" visible="true" />
+        <setting id="url_json" type="file" label="File canali" default="\\et8000\iptv\dade_channels.json" visible="true" />
     </category>
 </settings>
