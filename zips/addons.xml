@@ -20,7 +20,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.d7d6" version="1.0.5" name="d7d6 video" provider-name="d7d6">
+<addon id="plugin.video.d7d6" version="1.0.6" name="d7d6 video" provider-name="d7d6">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
   </requires>
